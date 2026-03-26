@@ -11,5 +11,5 @@ Group Members :
 
 Topic : Bigg Boss 
 
-Repository Link : ( tba )
+Repository Link : https://github.com/phANTom2303/BigBoss_Genetic_algo
 Deployment Link : ( tba )
